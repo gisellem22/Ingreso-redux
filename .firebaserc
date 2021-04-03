@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egreso-app-e8680": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-e8680"
+        ]
+      }
+    }
+  }
+}
